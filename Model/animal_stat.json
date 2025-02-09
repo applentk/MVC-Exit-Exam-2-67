@@ -1,0 +1,14 @@
+[
+    {
+        "Accepted": {
+            "Pheonix": 0,
+            "Dragon": 0,
+            "Howl": 0
+        },
+        "Rejected": {
+            "Pheonix": 0,
+            "Dragon": 0,
+            "Howl": 1
+        }
+    }
+]
